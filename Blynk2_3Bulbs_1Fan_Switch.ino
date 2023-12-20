@@ -7,7 +7,7 @@
 /* Fill-in your Template ID (only if using Blynk.Cloud) */
 #define BLYNK_TEMPLATE_ID "TMPL2xBQQNHfq"
 #define BLYNK_TEMPLATE_NAME "Smart Home"
-#define BLYNK_AUTH_TOKEN "e2MT2g-ZkJiJtiwwV8WgrpfJQP8RgX3E"
+#define BLYNK_AUTH_TOKEN "Your Authentication Token provided by Blynk"
 
 //WiFi credentials.
 // Set password to "" for open networks.
